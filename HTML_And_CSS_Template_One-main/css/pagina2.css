@@ -96,6 +96,11 @@ ul li strong {
     color: var(--primary-color);
 }
 
+#infowave-group {
+    background-color: #fff;
+    padding: 2rem 0;
+}
+
 .footer {
     background-color: var(--primary-color);
     color: var(--secondary-color);
