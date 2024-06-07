@@ -101,6 +101,45 @@ ul li strong {
     padding: 2rem 0;
 }
 
+#contact {
+    background-color: #f9f9f9;
+}
+
+#login {
+    background-color: #fff;
+    padding: 2rem 0;
+}
+
+#login .form-group {
+    margin-bottom: 1rem;
+}
+
+#login .form-group label {
+    display: block;
+    margin-bottom: 0.5rem;
+    color: #333;
+}
+
+#login .form-group input {
+    width: 100%;
+    padding: 0.5rem;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
+
+#login .btn {
+    background-color: var(--primary-color);
+    color: var(--secondary-color);
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+#login .btn:hover {
+    background-color: #1f6e75;
+}
+
 .footer {
     background-color: var(--primary-color);
     color: var(--secondary-color);
